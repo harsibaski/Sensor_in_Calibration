@@ -1,6 +1,6 @@
 # Sensor_in_Calibration
 
-
+Arduino Project
 Demonstrates one technique for calibrating sensor input. The sensor readings
   during the first five seconds of the sketch execution define the minimum and
   maximum of expected values attached to the sensor pin.
